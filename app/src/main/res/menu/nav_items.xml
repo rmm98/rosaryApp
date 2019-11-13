@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navKonkani"
+        android:icon="@drawable/ickonknai"
+        android:title="ಕೊಂಕಣಿ" />
+    <item
+        android:id="@+id/navRomi"
+        android:icon="@drawable/texts"
+        android:title="Romi" />
+</menu>

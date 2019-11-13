@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Naman</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">LOGO</string>
+    <string name="mother_mary_has_never_refused_me_a_grace_through_the_recitation_of_the_rosary_st_padre_pio">Mother Mary has never refused me grace through the recitation of the rosary.\n- St. Padre Pio</string>
+
+</resources>

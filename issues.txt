@@ -1,0 +1,1 @@
+Headings written in Nirmala UI font present in headings.doc dont fit right.
